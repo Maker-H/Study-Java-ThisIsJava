@@ -1,4 +1,4 @@
-public class Ch6_ComputerArrayExample{
+public class Ch6_Computer_ArrayExample{
 	public static void main(String[] args){
 	C_Computer myCom = new C_Computer(); //create object
 

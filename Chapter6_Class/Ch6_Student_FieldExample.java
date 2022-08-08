@@ -1,4 +1,4 @@
-public class Ch6_StudentFieldExample{
+public class Ch6_Student_FieldExample{
 	public static void main(String[] args){
 		C_Student s1 = new C_Student();
 		System.out.println("variable s1 refers Student object");
