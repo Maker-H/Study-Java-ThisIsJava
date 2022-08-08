@@ -1,10 +1,10 @@
 {
     "java.project.sourcePaths": [
-        "Chapter7",
-        "Chapter6",
+        "Enumeration Type",
+        "Chapter6_Class",
         "Chapter5",
         "Chapter1-Chapter4",
-        "Enumeration Type"
+        "Chapter7_Inheritance"
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
