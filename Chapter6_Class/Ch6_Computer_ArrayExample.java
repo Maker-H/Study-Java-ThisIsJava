@@ -1,6 +1,6 @@
 public class Ch6_Computer_ArrayExample{
 	public static void main(String[] args){
-	C_Computer myCom = new C_Computer(); //create object
+	Lib_Computer myCom = new Lib_Computer(); //create object
 
 	int[] values = {1,2,3};
 	int result1 = myCom.sum1(values);

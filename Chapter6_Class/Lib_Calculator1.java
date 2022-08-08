@@ -1,4 +1,4 @@
-public class C_Calculator1{
+public class Lib_Calculator1{
 	
     //method
     void powerOn() {

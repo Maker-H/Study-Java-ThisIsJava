@@ -1,4 +1,4 @@
-public class C_Car4{
+public class Lib_Car4{
 	//Field
 	int speed;
 

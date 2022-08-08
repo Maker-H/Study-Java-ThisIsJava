@@ -1,6 +1,6 @@
 public class Ch6_Calculator1_MethodExample{
 	public static void main(String[] args){
-	C_Calculator1 myCal = new C_Calculator1();
+	Lib_Calculator1 myCal = new Lib_Calculator1();
 	myCal.powerOn();
 
 

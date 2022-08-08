@@ -1,4 +1,4 @@
-public class C_Calculator3{
+public class Lib_Calculator3{
 	
     //method
     double areaRectangle(double width) { //area of square

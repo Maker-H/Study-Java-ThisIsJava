@@ -1,6 +1,6 @@
 public class Ch6_Calculator3_MethodOverloading{
 	public static void main(String[] args){
-	C_Calculator3 myCal = new C_Calculator3();
+	Lib_Calculator3 myCal = new Lib_Calculator3();
 	
 	//find the area of a square
 	double result1 = myCal.areaRectangle(10);

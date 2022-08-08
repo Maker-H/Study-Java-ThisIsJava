@@ -1,4 +1,4 @@
-public class C_Car3{
+public class Lib_Car3{
 	//Field
 	int gas;
 

@@ -1,6 +1,6 @@
 public class Ch6_Car3_ReturnExample{
 	public static void main(String[] args){
-		C_Car3 myCar = new C_Car3();
+		Lib_Car3 myCar = new Lib_Car3();
 
 		myCar.setGas(5); //filled up the gas by 5
 

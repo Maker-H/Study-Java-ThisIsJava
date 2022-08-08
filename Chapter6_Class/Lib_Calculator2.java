@@ -1,4 +1,4 @@
-public class C_Calculator2{
+public class Lib_Calculator2{
 	
     //method
     int plus(int x, int y) {

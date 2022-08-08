@@ -1,4 +1,4 @@
-public class C_Computer{
+public class Lib_Computer{
 	
     //method
     int sum1(int[] values) {
