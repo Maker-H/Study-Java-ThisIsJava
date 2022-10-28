@@ -1,4 +1,4 @@
-package sec07_interrupt.exam01_interrupt;
+package sec07_interrupt;
 
 public class InteruptExample {
     public static void main(String[] args) {
