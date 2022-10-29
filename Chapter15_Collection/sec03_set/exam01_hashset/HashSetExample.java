@@ -1,4 +1,4 @@
-package sec03_set.exam1_hashset;
+package sec03_set.exam01_hashset;
 
 import java.util.HashSet;
 import java.util.Set;

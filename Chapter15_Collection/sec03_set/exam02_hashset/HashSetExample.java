@@ -8,6 +8,9 @@ public class HashSetExample {
         Set<Member> set = new HashSet<>();
 
         set.add(new Member("heesom", 30));
+        set.add(new Member("heesom", 30));
+
+        System.out.println("total objects number : "+ set.size());
         
     }
 }
