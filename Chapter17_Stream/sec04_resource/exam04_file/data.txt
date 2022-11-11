@@ -1,0 +1,6 @@
+pno : 0, name : product0, company : nice company, price : 4453 
+pno : 1, name : product1, company : nice company, price : 1785 
+pno : 2, name : product2, company : nice company, price : 5198 
+pno : 3, name : product3, company : nice company, price : 2324 
+pno : 4, name : product4, company : nice company, price : 3134 
+pno : 5, name : product5, company : nice company, price : 8690
