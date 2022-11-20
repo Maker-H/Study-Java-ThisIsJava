@@ -1,18 +1,24 @@
-## Getting Started
+## Study-Java-ThisIsJava
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+- This is a repository for learning basic grammer about java
+- All the code in this repository belongs to author of '이것이 자바다'
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+</br><br>
+## What I learned
+1. Variables, Conditional Statement, Loop Statement
+2. Referece Type
+3. Class
+4. Inheritance
+5. Interface
+6. Nested
+7. How to make and use Library and Module
+8. How to handle Exception
+9. Basic API (java.base)
+10. Generic
+11. Thread
+12. Collection
+13. Lambda
+14. Stream
+15. How to use Library for Data I/O
+16. How to use Library for Network I/O
+17. How to use Database 
