@@ -12,13 +12,13 @@
 5. Interface
 6. Nested
 7. How to make and use Library and Module
-8. How to handle Exception
+8. Handle Exception
 9. Basic API (java.base)
 10. Generic
 11. Thread
 12. Collection
 13. Lambda
 14. Stream
-15. How to use Library for Data I/O
-16. How to use Library for Network I/O
-17. How to use Database 
+15. Library for Data I/O
+16. Library for Network I/O
+17. Database (Oracle, MySQL)
